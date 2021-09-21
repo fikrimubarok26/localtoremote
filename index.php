@@ -10,7 +10,10 @@
 
 <body>
     <p>tambah paragraf</p>
+    <ul>
+	<li>satu</li>
 
+    </ul>	
 </body>
 
 </html>
